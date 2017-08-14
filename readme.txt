@@ -1,2 +1,4 @@
 Git is a version control system,
-Git id free software.
+thx Git id free software.
+Git is learing on eight 14;
+hello git
