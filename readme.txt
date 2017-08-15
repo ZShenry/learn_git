@@ -3,3 +3,4 @@ thx Git id free software.
 Git is learing on eight 14;
 hello git!!!
 learn git_!
+learn_half
